@@ -1,7 +1,7 @@
-var name = "susan"
+var name = "Susan"
 var height = "74"
 
-if (name === 'susan') {
+if (name === 'Susan') {
   console.log('the name is correct')
 } else {
   console.log('expected the name to be Susan')
